@@ -11,8 +11,8 @@ One neuron, L14 N8949 at +1, produces almost the whole effect on its own.
 
 Author: https://github.com/sarvkk
 
-The blog post version is `blog_post.md`. The full technical report (method, per-area tables,
-judge reliability) is `evil-qwen.md` / `evil-qwen.pdf`.
+The full public write-up lives on the blog (https://sarvajit.com.np). The full technical
+report (method, per-area tables, judge reliability) is `evil-qwen.md` / `evil-qwen.pdf`.
 
 ## What is and is not in this repo
 
